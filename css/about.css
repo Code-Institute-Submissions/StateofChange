@@ -1,7 +1,6 @@
 /* About Section*/
 .about {
   height: 100vh;
-  width: 100%;
   padding: 50px 18%;
   background-color: #f9f5eb;
   display: grid;
@@ -12,7 +11,7 @@
 .rene-img img {
   height: auto;
   max-width: 100%;
-  width: 50%;
+  width: 75%;
 }
 .rene-text h1 {
   color: #161853;
