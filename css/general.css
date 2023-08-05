@@ -37,7 +37,7 @@ body {
 }
 
 /* Footer Section */
-.footer {
+#footer {
   background-color: #111612;
   color: #fff;
   text-align: center;
