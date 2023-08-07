@@ -25,7 +25,10 @@ It features: A captivating cover that sets the tone for the podcast's theme and 
 An engaging story that gives you insights into what our podcast is all about. 
 A section highlighting our most recent and exciting podcast episodes.
 
+![landing page](/assets/landingpage.png "landing page")
 
+- A episodes page:
+Dive deep into our podcast episodes on this dedicated page. Here's what a user can expect: An organized list of all our podcast episodes. Easy-to-use player widgets that allow a user to listen to episodes directly from the page.
 
-
+![episodes](/assets/episodes.png "episodes")
 
