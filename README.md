@@ -59,6 +59,20 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 
 - ### Landing Page:
 
+![wirelanding](/assets/wirelanding.png "wirelanding")
+
+- ### Episodes Page:
+
+![wireepisodes](/assets/wireepisodes.png "wireepisodes")
+
+- ### About Page:
+
+![wireabout](/assets/wireabout.png "wireabout")
+
+- ### Contact Form:
+
+![wirecontact](/assets/wirecontact.png "wirecontact")
+
 ### Testing 
 
 ### Browser Compatibility 
