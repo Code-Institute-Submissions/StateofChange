@@ -85,6 +85,38 @@ Click on the Spotify link. A new tab or window should open, redirecting to the S
 - CSS No errors were found when passing through the official (Jigsaw) validator
   
 ### Accesability 
-Landing Page Web Version:
+
+- ### Landing Page Web Version:
+
+![landingweb](/assets/landingweb.png "landingweb")
+
+- ### Landing Page Mobile Version:
+  
+![landingmobile](/assets/landingmobile.png "landingweb")
+
+- ### Episodes Page Web Version:
+
+![episodesweb](/assets/episodesweb.png "episodesweb")
+
+- ### Episodes Page Mobile Version:
+
+![episodesmobile](/assets/episodesmobile.png "episodesmobile")
+
+
+- ### About Page Web Version:
+  
+![aboutweb](/assets/aboutweb.png "aboutweb")
+
+- ### About Page Mobile Version:
+  
+![aboutmobile](/assets/aboutmobile.png "aboutmobile")
+
+- ### Contact Form Web Version:
+  
+![contactweb](/assets/contactweb.png "contactweb")
+
+- ### Contact Form Mobile Version:
+  
+![contactmobile](/assets/contactmobile.png "contactmobile")
 
 
