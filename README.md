@@ -131,6 +131,8 @@ The user should be able to navigate to the podcast page and see a well-organized
 
 - The "Recent Episodes" section is visible, and the episode thumbnails and titles are presented as expected. The descriptions are not presented as expacted.
 
+![testepisode](/assets/testepisode.png "testepisode")
+
 ### User Story 2: Listening to an Episode
 
 *Scenario: Playing an episode and interacting with the media player*
@@ -164,6 +166,34 @@ The user should be able to click on the "About" link, navigate to the "About" pa
 ### Result: 
 
 - The user is taken to the "About" page, and they can access and read comprehensive information about the podcast and the host.
+
+### User Story 4: Getting in Touch
+
+*Scenario: Submitting a contact form and receiving confirmation*
+
+### Expectation: 
+The user should be able to fill out the contact form, submit it, and receive a confirmation message indicating successful submission.
+
+### Test:
+
+- Click on the "Contact" link from the navigation menu.
+- Fill out the contact form with valid information.
+- Submit the form.
+- Check for a confirmation message or alert.
+  
+### Result: 
+
+- The form submission redirect to a 405 page in the MVP.
+
+![testcontact](/assets/testcontact.png "testcontact")
+
+### User Story 5: Exploring Social Media Links in the Footer
+
+*Scenario: Navigating to the footer and accessing social media links*
+
+
+
+
 
 ### Testing 
 
