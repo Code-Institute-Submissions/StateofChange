@@ -51,6 +51,14 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 - a Subscribe Button
 - Text fields for a short description per episode
 
+### UX/ UI Site Goals
+
+- Make people curious about the podcast show. Let them hear the interviews, so every person can have a impact of our future.
+
+#### Wireframes:
+
+- ### Landing Page:
+
 ### Testing 
 
 ### Browser Compatibility 
@@ -119,4 +127,30 @@ Click on the Spotify link. A new tab or window should open, redirecting to the S
   
 ![contactmobile](/assets/contactmobile.png "contactmobile")
 
+### Fixed Bugs:
+W3C error messages at the episodes page:
+1: Error: The frameborder attribute on the iframe element is obsolete.
+2: Error: The allowtransparency attribute on the iframe element is obsolete.
+- To fix that I used CSS instead.
 
+### Unfixed Bugs:
+Picture format/ dimensions need tob e changed for a better mobile performance.
+
+### Deployment:
+
+### Credits:
+- All content (pictures, text, podcast) is produced by myself.
+  
+The page is inspired by:
+- https://bauerfeind-kuttner.podigee.io/
+- 
+Inspiration fort he color palete:
+- https://colorhunt.co/palettes/retro
+  
+- Cover font: is licensed by: pixelsao.com
+- Music is licensed by: artlist.io
+  
+Code is written by myself with help from:
+- Mentor
+- Tutors
+- Friends
