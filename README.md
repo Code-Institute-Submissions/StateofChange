@@ -127,19 +127,19 @@ Click on the Spotify link. A new tab or window should open, redirecting to the S
 
 - ### About Page Web Version:
   
-![aboutweb](/assets/aboutweb.PNG "aboutweb")
+![aboutweb](/assets/aboutweb.png "aboutweb")
 
 - ### About Page Mobile Version:
   
-![aboutmobile](/assets/aboutmobile.PNG "aboutmobile")
+![aboutmobile](/assets/aboutmobile.png "aboutmobile")
 
 - ### Contact Form Web Version:
   
-![contactweb](/assets/contactweb.PNG "contactweb")
+![contactweb](/assets/contactweb.png "contactweb")
 
 - ### Contact Form Mobile Version:
   
-![contactmobile](/assets/contactmobile.PNG "contactmobile")
+![contactmobile](/assets/contactmobile.png "contactmobile")
 
 ### Fixed Bugs:
 W3C error messages at the episodes page:
@@ -157,7 +157,7 @@ Picture format/ dimensions need tob e changed for a better mobile performance.
   
 The page is inspired by:
 - https://bauerfeind-kuttner.podigee.io/
-- 
+  
 Inspiration fort he color palete:
 - https://colorhunt.co/palettes/retro
   
