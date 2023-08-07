@@ -55,6 +55,11 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 
 - Make people curious about the podcast show. Let them hear the interviews, so every person can have a impact of our future.
 
+### Color Design: the STATE OF CHANGE cover is designed in a retro future typo.
+- Nav and Footer color is black.
+- Backround colors are cream and linen.
+- Typo colors are a dark blue, light greay and black..
+
 #### Wireframes:
 
 - ### Landing Page:
