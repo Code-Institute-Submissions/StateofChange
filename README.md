@@ -148,6 +148,23 @@ The user should be able to click on an episode, listen to it through a media pla
 
 - The selected episode plays through the media player, and the user can control playback using the provided controls.
 
+### User Story 3: Learning About the Podcast
+
+*Scenario: Accessing the "About" page and reading podcast information*
+
+### Expectation: 
+The user should be able to click on the "About" link, navigate to the "About" page, and read detailed information about the podcast and the host.
+
+### Test:
+
+- Click on the "About" link from the navigation menu.
+- Verify that the user is directed to the "About" page.
+- Read through the podcast's mission, theme, and host information.
+
+### Result: 
+
+- The user is taken to the "About" page, and they can access and read comprehensive information about the podcast and the host.
+
 ### Testing 
 
 ### Browser Compatibility 
@@ -155,9 +172,11 @@ I have thoroughly tested the podcast website on different browsers to ensure a s
 - Mozilla Firefox 
 - Google Chrome 
 - Microsoft Edge
+- Android
 
 ### Not tested:
 - Safari
+- IOS
   
 ### Responsiveness 
 To ensure that the website looks great on various devices, I´ve employed responsive design principles. I've tested and optimized the website layout using Google Dev Tools for different screen sizes, including desktop, tablet, and mobile.
