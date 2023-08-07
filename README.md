@@ -32,3 +32,18 @@ Dive deep into our podcast episodes on this dedicated page. Here's what a user c
 
 ![episodes](/assets/episodes.png "episodes")
 
+- A „about me“ page:
+Get to know the host behind the podcast on our "About Me" page: A personal introduction to the host, including background, interests, and passions. Insights into the journey that led to the creation of the podcast.
+
+![aboutme](/assets/aboutme.png "aboutme")
+
+- A contact formular:
+Reach out to the host using the user-friendly contact form: A contact form where a user can enter the name, email, subject, and message. A seamless way to get in touch with the host for any questions, suggestions, or collaborations.
+
+![contact](/assets/contactform.png "contact")
+
+- Footer:
+The footer invite the user to follow the host on Instagram and Spotify. A color hover effect for Instagram and Spotify is used instead of logos.
+
+![footer](/assets/footer.png "footer")
+
