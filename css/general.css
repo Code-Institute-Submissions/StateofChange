@@ -73,6 +73,16 @@ body {
   text-decoration: none;
 } 
 
+/* Hover effect for Spotify link */
+.right-side a:hover {
+  color: rgb(30, 255, 0);
+}
+
+/* Hover effect for Instagram link */
+.left-side a:hover {
+  color: rgb(247, 0, 255);
+}
+
 /* Responsive Styles Footer */
 @media screen and (max-width: 768px) {
   .footer-content {
