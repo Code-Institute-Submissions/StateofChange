@@ -114,6 +114,40 @@ As a podcast enthusiast, I want to visit the podcast page of the website to acce
 - If I happen to miss filling out a required field, I receive clear error messages prompting me to provide the necessary information.
 - In summary, as a podcast enthusiast, I'm delighted to explore the podcast page, discover recent episodes, engage with high-quality content, learn about the podcast's mission and host, and easily get in touch with the - host if I have any questions or feedback. The responsive design, organized layout, and intuitive navigation enhance my overall experience as a user.
 
+### User Story 1: Exploring Recent Episodes
+
+*Scenario: Navigating to the podcast page and exploring recent episodes*
+
+### Expectation: 
+The user should be able to navigate to the podcast page and see a well-organized section displaying recent episode thumbnails with clear titles and descriptions.
+
+### Test:
+
+- Navigate to the podcast page.
+- Locate the "Recent Episodes" section.
+- Check if the thumbnails are displayed with episode titles and descriptions.
+
+### Result: 
+
+- The "Recent Episodes" section is visible, and the episode thumbnails and titles are presented as expected. The descriptions are not presented as expacted.
+
+### User Story 2: Listening to an Episode
+
+*Scenario: Playing an episode and interacting with the media player*
+
+### Expectation: 
+The user should be able to click on an episode, listen to it through a media player, and control playback.
+
+### Test:
+
+- Select an episode to listen to.
+- Click the play button on the media player.
+- Interact with the media player controls (play, pause, volume).
+
+### Result: 
+
+- The selected episode plays through the media player, and the user can control playback using the provided controls.
+
 ### Testing 
 
 ### Browser Compatibility 
