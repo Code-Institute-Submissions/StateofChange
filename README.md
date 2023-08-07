@@ -58,7 +58,7 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 ### Color Design: the STATE OF CHANGE cover is designed in a retro future typo.
 - Nav and Footer color is black.
 - Backround colors are cream and linen.
-- Typo colors are a dark blue, light greay and black..
+- Typo colors are a dark blue, light greay and black.
 
 #### Wireframes:
 
@@ -78,13 +78,52 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 
 ![wirecontact](/assets/wirecontact.png "wirecontact")
 
+### User Story: Podcast Page
+
+As a podcast enthusiast, I want to visit the podcast page of the website to access engaging content, stay updated on recent episodes, and learn more about the host and the podcast's theme. I expect the page to be organized, user-friendly, and provide a seamless experience. Here's how my user story unfolds:
+
+### Scenario 1: Exploring Recent Episodes
+
+- As a user, I land on the podcast page.
+- I immediately notice a well-designed header with the podcast's name and logo, indicating that I'm in the right place.
+- Scrolling down, I come across a section titled "Recent Episodes."
+- The section contains a visually appealing grid displaying episode thumbnails, each with a clear title and brief description.
+- I can easily identify the episode I'm interested in based on the provided visuals and descriptions.
+
+### Scenario 2: Listening to an Episode
+
+- After selecting an episode that catches my interest, I click on its thumbnail or title.
+- I'm directed to a dedicated episode page, where I find a play button, episode title, and detailed description.
+- I click the play button to listen to the episode, and a media player appears, allowing me to control playback and adjust the volume.
+- I notice that the media player is responsive, adapting to different screen sizes and orientations, ensuring a seamless listening experience.
+  
+### Scenario 3: Learning About the Podcast
+
+- Intrigued by the content, I decide to learn more about the podcast and the host.
+- I notice a navigation menu that includes options like "About" and "Contact."
+- I click on the "About" link to access a separate page dedicated to the podcast's background, theme, and host information.
+- On the "About" page, I read a detailed description of the podcast's mission, goals, and what I can expect from each episode.
+- There's also a section introducing the host, their background, and expertise in the podcast's subject matter.
+  
+### Scenario 4: Getting in Touch
+
+- Interested in reaching out to the podcast host, I click on the "Contact" link from the navigation menu.
+- I land on a page with a contact form that includes fields for my name, email address, subject, and message.
+- I fill out the form, providing accurate information.
+- After submitting the form, I receive an immediate confirmation message indicating that my message has been sent successfully.
+- If I happen to miss filling out a required field, I receive clear error messages prompting me to provide the necessary information.
+- In summary, as a podcast enthusiast, I'm delighted to explore the podcast page, discover recent episodes, engage with high-quality content, learn about the podcast's mission and host, and easily get in touch with the - host if I have any questions or feedback. The responsive design, organized layout, and intuitive navigation enhance my overall experience as a user.
+
 ### Testing 
 
 ### Browser Compatibility 
 I have thoroughly tested the podcast website on different browsers to ensure a smooth user experience. The website is compatible with:
--  Mozilla Firefox 
+- Mozilla Firefox 
 - Google Chrome 
 - Microsoft Edge
+
+### Not tested:
+- Safari
   
 ### Responsiveness 
 To ensure that the website looks great on various devices, I´ve employed responsive design principles. I've tested and optimized the website layout using Google Dev Tools for different screen sizes, including desktop, tablet, and mobile.
