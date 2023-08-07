@@ -127,19 +127,19 @@ Click on the Spotify link. A new tab or window should open, redirecting to the S
 
 - ### About Page Web Version:
   
-![aboutweb](/assets/aboutweb.png "aboutweb")
+![aboutweb](/assets/aboutweb.PNG "aboutweb")
 
 - ### About Page Mobile Version:
   
-![aboutmobile](/assets/aboutmobile.png "aboutmobile")
+![aboutmobile](/assets/aboutmobile.PNG "aboutmobile")
 
 - ### Contact Form Web Version:
   
-![contactweb](/assets/contactweb.png "contactweb")
+![contactweb](/assets/contactweb.PNG "contactweb")
 
 - ### Contact Form Mobile Version:
   
-![contactmobile](/assets/contactmobile.png "contactmobile")
+![contactmobile](/assets/contactmobile.PNG "contactmobile")
 
 ### Fixed Bugs:
 W3C error messages at the episodes page:
