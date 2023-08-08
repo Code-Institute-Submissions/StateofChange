@@ -278,10 +278,10 @@ Hover the mouse cursor over the Instagram and Spotify icons in the footer.
 The Instagram icon on the left side changes color to pink, and the Spotify icon on the right side changes color to green, providing visual feedback to the user when interacting with the icons.
 
 - ### Screenshot hover Instagram
-- ![hover insta](/assets/hover_instagram_pink "hover insta")
+![hover insta](/assets/hover_instagram_pink.png "hover insta")
 
 - ### Screenshot hover Spotify
-- ![hover spotify](/assets/hover_spotify_green "hover spotify")
+![hover spotify](/assets/hover_spotify_green.png "hover spotify")
 
 ### Validator Testing:
 - HTML No errors were returned when passing through the official W3C validator 
