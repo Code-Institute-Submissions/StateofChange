@@ -209,17 +209,17 @@ The user should be able to click the social media links in the footer. The links
 - Locate the Spotify icon and click on it.
 - Observe the behavior of the links and their destinations.
 
-### Resukt:
+### Result:
 
 - The website loads successfully.
 - The footer section is present as expected.
 - The Instagram link opens a new tab, loading the podcast's official Instagram profile page.
 - The Spotify link opens a new tab, loading the podcast's official Spotify profile page.
 
-- Instagram Link:
+- ### Instagram Link:
 ![instalink](/assets/instalink.png "instalink")
 
-- Spotify Link:
+- ### Spotify Link:
 ![linkspotify](/assets/linkspotify.png "linkspotify")
 
 
