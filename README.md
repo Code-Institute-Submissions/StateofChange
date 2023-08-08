@@ -250,6 +250,9 @@ Access the website on various devices with different screen sizes.
 - ### Result:
 The website layout and content adjust appropriately to different screen sizes, ensuring a user-friendly experience without any content cutoff or overlapping.
 
+- ### Screenshot of the mobile Android version:
+![mobile_version](/assets/mobile_version.jpg "mobile_version")
+
 ### Validator Testing:
 - HTML No errors were returned when passing through the official W3C validator 
 - CSS No errors were found when passing through the official (Jigsaw) validator
