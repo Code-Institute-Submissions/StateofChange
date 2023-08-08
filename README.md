@@ -288,6 +288,9 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
 - CSS No errors were found when passing through the official (Jigsaw) validator
   
 ### Accesability 
+- ### ATTENTION
+The screenshots are taken from a german language system. Change the language has an impact on the keyboard commands.
+In row the translation is: Performance, Accesability, Best Practices, SEO
 
 - ### Landing Page Web Version:
 
@@ -332,6 +335,12 @@ W3C error messages at the episodes page:
 Picture format/ dimensions need tob e changed for a better mobile performance.
 
 ### Deployment:
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Main Branch
+- Once the Main Branch has selected, the page will automaticlly refreshed with a detailed ribbon display to to indicate the successful deployment.
+- The link can be found here - https://renebaumann3000.github.io/StateofChange.github.io/index.html
 
 ### Credits:
 - All content (pictures, text, podcast) is produced by myself.
