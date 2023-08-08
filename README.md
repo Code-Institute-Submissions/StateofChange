@@ -75,6 +75,8 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 ![wireabout](/assets/wireabout.png "wireabout")
 
 - ### Contact Form:
+  The contact form has a classic design, to keep the MVP simple and smart as possible, without special design decisions.
+  A classy contact form instead of design overthinking.
 
 ![wirecontact](/assets/wirecontact.png "wirecontact")
 
@@ -120,7 +122,6 @@ As a podcast enthusiast, I want to visit the podcast page of the website to acce
 - Upon reaching the footer of the website, I notice distinct icons for Instagram and Spotify, clearly indicating the available social media platforms.
 - With curiosity, I click on the Instagram icon. The link opens in a new tab, taking me directly to the podcast's Instagram profile. I find engaging visuals, updates, and behind-the-scenes content that resonate with the podcast's theme.
 - Next, I click on the Spotify icon. Similar to the Instagram link, the Spotify link opens in a new tab and takes me to the podcast's Spotify profile. There, I can easily access and listen to all the podcast episodes available on Spotify's platform.
-
 
 
 ### Testing User Story 1: Exploring Recent Episodes
@@ -252,6 +253,29 @@ The website layout and content adjust appropriately to different screen sizes, e
 
 - ### Screenshot of the mobile Android version:
 ![mobile_version](/assets/mobile_version.jpg "mobile_version")
+
+### Feature: Navigation Bar
+
+- ### Expectation:
+The navigation bar should provide clear links to the Home, Episodes, About, and Contact sections of the website.
+
+- ### Action:
+Click on each navigation link (Home, Episodes, About, Contact) in the navigation bar.
+
+- ### Result:
+The corresponding section of the website is scrolled to or loaded, making it easy to navigate to the desired content.
+
+### Feature: Footer Color Hover
+
+- ### Expectation:
+When hovering over the Instagram icon on the left side of the footer, it should change color to pink. 
+When hovering over the Spotify icon on the right side of the footer, it should change color to green.
+
+- ### Action:
+Hover the mouse cursor over the Instagram and Spotify icons in the footer.
+
+- ### Result:
+The Instagram icon on the left side changes color to pink, and the Spotify icon on the right side changes color to green, providing visual feedback to the user when interacting with the icons.
 
 ### Validator Testing:
 - HTML No errors were returned when passing through the official W3C validator 
