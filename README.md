@@ -224,39 +224,34 @@ The user should be able to click the social media links in the footer. The links
 
 
 
-### Testing 
+### Testing Features
 
-### Browser Compatibility 
-I have thoroughly tested the podcast website on different browsers to ensure a smooth user experience. The website is compatible with:
-- Mozilla Firefox 
-- Google Chrome 
-- Microsoft Edge
-- Android
+### Feature: Browser Compatibility
+
+- ### Expectation:
+The website should be accessible and functional across major browsers such as Chrome, Firefox, Edge and Android.
+
+- ### Action:
+Open the website using Chrome, Firefox, Edge browser and Android.
+
+- ### Result:
+The website displays correctly and functions smoothly on all tested browsers without any major issues.
+The mobile version is a bit slow.
 
 ### Not tested:
 - Safari
 - IOS
   
-### Responsiveness 
-To ensure that the website looks great on various devices, I´ve employed responsive design principles. I've tested and optimized the website layout using Google Dev Tools for different screen sizes, including desktop, tablet, and mobile.
+### Feature: Responsiveness
 
-### Header Clarity 
-The header of the website has been designed with user-friendliness in mind. It's easily readable and straightforward to understand, providing clear navigation options to help users find what they're looking for.
-Contact Form Testing 
-I‘ve thoroughly tested the contact form's functionality: The browser defult form validation is used to ensure that the form responds appropriately to errors. The submit button triggers the form submission process to redirection mechanism in case of a "405 Not Allowed" status.
+- ### Expectation:
+The website should be responsive and adapt well to different screen sizes, including mobile devices and tablets.
 
-### Testing Footer
-Hover Color Check: 
-Open the web application in a browser. 
-Scroll down to the footer section of the page. 
-Hover the mouse cursor over the Instagram link. 
-The link color should change to pink. Hover the mouse cursor over the Spotify link. 
-The link color should change to green. 
+- ### Action:
+Access the website on various devices with different screen sizes.
 
-### Link Functionality
-Click on the Instagram link. 
-A new tab or window should open, redirecting to the Instagram profile. 
-Click on the Spotify link. A new tab or window should open, redirecting to the Spotify show page.
+- ### Result:
+The website layout and content adjust appropriately to different screen sizes, ensuring a user-friendly experience without any content cutoff or overlapping.
 
 ### Validator Testing:
 - HTML No errors were returned when passing through the official W3C validator 
