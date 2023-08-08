@@ -323,10 +323,18 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
 ![contactmobile](/assets/contactmobile.png "contactmobile")
 
 ### Fixed Bugs:
-W3C error messages at the episodes page:
+- W3C error messages at the episodes page:
 1: Error: The frameborder attribute on the iframe element is obsolete.
 2: Error: The allowtransparency attribute on the iframe element is obsolete.
 - To fix that I used CSS instead.
+
+![error_iframe](/assets/error_iframe.png "error_iframe")
+
+- W3C Info message at the about page: Trailing slash on void elements.
+That was triggert by the Prettifier extension in VS Code.
+
+![trailing_slash_info](/assets/trailing_slash_info.png "trailing_slash_info")
+
 
 ### Unfixed Bugs:
 Picture format/ dimensions need tob e changed for a better mobile performance.
