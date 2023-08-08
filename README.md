@@ -192,9 +192,7 @@ The user should be able to fill out the contact form, submit it, and receive a c
   
 ### Result: 
 
-- The form submission redirect to a 405 page in the MVP.
-
-![testcontact](/assets/testcontact.png "testcontact")
+- The form submission redirect to the Code Institute page.
 
 ### Testing User Story 5: Exploring Social Media Links in the Footer
 
@@ -221,7 +219,6 @@ The user should be able to click the social media links in the footer. The links
 
 - ### Spotify Link:
 ![linkspotify](/assets/linkspotify.png "linkspotify")
-
 
 
 ### Testing Features
