@@ -337,7 +337,9 @@ That was triggert by the Prettifier extension in VS Code.
 
 
 ### Unfixed Bugs:
-Picture format/ dimensions need tob e changed for a better mobile performance.
+Picture format/ dimensions need to be changed for a better mobile performance.
+
+![lighthouse_performance](/assets/lighthouse_performance.png "lighthouse_performance")
 
 ### Deployment:
 
@@ -353,7 +355,7 @@ Picture format/ dimensions need tob e changed for a better mobile performance.
 The page is inspired by:
 - https://bauerfeind-kuttner.podigee.io/
   
-Inspiration fort he color palete:
+Inspiration for the color palete:
 - https://colorhunt.co/palettes/retro
   
 - Cover font: is licensed by: pixelsao.com
