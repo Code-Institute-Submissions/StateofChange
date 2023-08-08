@@ -288,9 +288,6 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
 - CSS No errors were found when passing through the official (Jigsaw) validator
   
 ### Accesability 
-- ### ATTENTION
-The screenshots are taken from a german language system. Change the language has an impact on the keyboard commands.
-In row the translation is: Performance, Accesability, Best Practices, SEO
 
 - ### Landing Page Web Version:
 
