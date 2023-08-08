@@ -114,7 +114,16 @@ As a podcast enthusiast, I want to visit the podcast page of the website to acce
 - If I happen to miss filling out a required field, I receive clear error messages prompting me to provide the necessary information.
 - In summary, as a podcast enthusiast, I'm delighted to explore the podcast page, discover recent episodes, engage with high-quality content, learn about the podcast's mission and host, and easily get in touch with the - host if I have any questions or feedback. The responsive design, organized layout, and intuitive navigation enhance my overall experience as a user.
 
-### User Story 1: Exploring Recent Episodes
+### Scenario 5: Exploring Social Media
+
+- As an avid podcast listener and social media user, I visit the podcast's website to find links to their Instagram and Spotify profiles for further engagement.
+- Upon reaching the footer of the website, I notice distinct icons for Instagram and Spotify, clearly indicating the available social media platforms.
+- With curiosity, I click on the Instagram icon. The link opens in a new tab, taking me directly to the podcast's Instagram profile. I find engaging visuals, updates, and behind-the-scenes content that resonate with the podcast's theme.
+- Next, I click on the Spotify icon. Similar to the Instagram link, the Spotify link opens in a new tab and takes me to the podcast's Spotify profile. There, I can easily access and listen to all the podcast episodes available on Spotify's platform.
+
+
+
+### Testing User Story 1: Exploring Recent Episodes
 
 *Scenario: Navigating to the podcast page and exploring recent episodes*
 
@@ -133,7 +142,7 @@ The user should be able to navigate to the podcast page and see a well-organized
 
 ![testepisode](/assets/testepisode.png "testepisode")
 
-### User Story 2: Listening to an Episode
+### Testing User Story 2: Listening to an Episode
 
 *Scenario: Playing an episode and interacting with the media player*
 
@@ -150,7 +159,7 @@ The user should be able to click on an episode, listen to it through a media pla
 
 - The selected episode plays through the media player, and the user can control playback using the provided controls.
 
-### User Story 3: Learning About the Podcast
+### Testing User Story 3: Learning About the Podcast
 
 *Scenario: Accessing the "About" page and reading podcast information*
 
@@ -167,7 +176,7 @@ The user should be able to click on the "About" link, navigate to the "About" pa
 
 - The user is taken to the "About" page, and they can access and read comprehensive information about the podcast and the host.
 
-### User Story 4: Getting in Touch
+### Testing User Story 4: Getting in Touch
 
 *Scenario: Submitting a contact form and receiving confirmation*
 
@@ -187,12 +196,25 @@ The user should be able to fill out the contact form, submit it, and receive a c
 
 ![testcontact](/assets/testcontact.png "testcontact")
 
-### User Story 5: Exploring Social Media Links in the Footer
+### Testing User Story 5: Exploring Social Media Links in the Footer
 
 *Scenario: Navigating to the footer and accessing social media links*
 
+### Expectation:
+The user should be able to click the social media links in the footer. The links should lead to the podcast's official Instagram profile, and the Spotify link should lead to the podcast's official Spotify profile.
 
+- Open the podcast website in a web browser.
+- Scroll down to the footer section of the webpage.
+- Locate the Instagram icon and click on it.
+- Locate the Spotify icon and click on it.
+- Observe the behavior of the links and their destinations.
 
+### Resukt:
+
+- The website loads successfully.
+- The footer section is present as expected.
+- The Instagram link opens a new tab, loading the podcast's official Instagram profile page.
+- The Spotify link opens a new tab, loading the podcast's official Spotify profile page.
 
 
 ### Testing 
