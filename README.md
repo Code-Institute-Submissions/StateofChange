@@ -1,7 +1,7 @@
 # STATE OF CHANGE Podcast ( StateofChange.github.io )
 
 
-### Introduction:
+## Introduction:
 The STATE OF CHANGE podcast addresses the important issues of our time: natural resource collapse and sustainable solutions.
 Scientists from around the world will be featured in interviews on questions related to energy management and agriculture.
 The homepage should be used to spread the word about the podcast.
@@ -11,7 +11,7 @@ The focus is on the content and upcoming SEO potentials.
 We hope that as many people as possible will engage with our future.
 This is a real podcast. All the content is produced by the author.
 
-### Features:
+## Features:
 The keep the website simple and focus the content.
 I do not used Google Fonts or external Icons because of a unclear german GDPR law situation.
 The Page structure:
@@ -47,11 +47,11 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 
 ![footer](/documentation/footer.png "footer")
 
-### Features left to implement:
+## Features left to implement:
 - a Subscribe Button
 - Text fields for a short description per episode
 
-### UX/ UI Site Goals
+## UX/ UI Site Goals
 
 - Make people curious about the podcast show. Let them hear the interviews, so every person can have a impact of our future.
 
@@ -60,7 +60,7 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 - Backround colors are cream and linen.
 - Typo colors are a dark blue, light greay and black.
 
-#### Wireframes:
+## Wireframes:
 
 - ### Landing Page:
 
@@ -80,7 +80,7 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 
 ![wirecontact](/documentation/wirecontact.png "wirecontact")
 
-### User Story: Podcast Page
+## User Story: Podcast Page
 
 As a podcast enthusiast, I want to visit the podcast page of the website to access engaging content, stay updated on recent episodes, and learn more about the host and the podcast's theme. I expect the page to be organized, user-friendly, and provide a seamless experience. Here's how my user story unfolds:
 
@@ -123,6 +123,8 @@ As a podcast enthusiast, I want to visit the podcast page of the website to acce
 - With curiosity, I click on the Instagram icon. The link opens in a new tab, taking me directly to the podcast's Instagram profile. I find engaging visuals, updates, and behind-the-scenes content that resonate with the podcast's theme.
 - Next, I click on the Spotify icon. Similar to the Instagram link, the Spotify link opens in a new tab and takes me to the podcast's Spotify profile. There, I can easily access and listen to all the podcast episodes available on Spotify's platform.
 
+
+## Testing User Stories
 
 ### Testing User Story 1: Exploring Recent Episodes
 
@@ -222,7 +224,7 @@ The user should be able to click the social media links in the footer. The links
 ![linkspotify](/documentation/linkspotify.png "linkspotify")
 
 
-### Testing Features
+## Testing Features
 
 ### Feature: Browser Compatibility
 
@@ -283,11 +285,11 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
 - ### Screenshot hover Spotify
 ![hover spotify](/documentation/hover_spotify_green.png "hover spotify")
 
-### Validator Testing:
+## Validator Testing:
 - HTML No errors were returned when passing through the official W3C validator 
 - CSS No errors were found when passing through the official (Jigsaw) validator
   
-### Accesability 
+## Accesability 
 
 - ### Landing Page Web Version:
 
@@ -322,7 +324,7 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
   
 ![contactmobile](/documentation/contactmobile.png "contactmobile")
 
-### Fixed Bugs:
+## Fixed Bugs:
 - W3C error messages at the episodes page:
 1: Error: The frameborder attribute on the iframe element is obsolete.
 2: Error: The allowtransparency attribute on the iframe element is obsolete.
@@ -336,12 +338,12 @@ That was triggert by the Prettifier extension in VS Code.
 ![trailing_slash_info](/documentation/trailing_slash_info.png "trailing_slash_info")
 
 
-### Unfixed Bugs:
+## Unfixed Bugs:
 Picture format/ dimensions need to be changed for a better mobile performance.
 
 ![lighthouse_performance](/documentation/lighthouse_performance.png "lighthouse_performance")
 
-### Deployment:
+## Deployment:
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
@@ -349,7 +351,7 @@ Picture format/ dimensions need to be changed for a better mobile performance.
 - Once the Main Branch has selected, the page will automaticlly refreshed with a detailed ribbon display to to indicate the successful deployment.
 - The link can be found here - https://renebaumann3000.github.io/StateofChange.github.io/index.html
 
-### Credits:
+## Credits:
 - All content (pictures, text, podcast) is produced by myself.
   
 The page is inspired by:
