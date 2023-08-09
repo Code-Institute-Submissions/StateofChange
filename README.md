@@ -54,6 +54,9 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 ## UX/ UI Site Goals
 
 - Make people curious about the podcast show. Let them hear the interviews, so every person can have a impact of our future.
+- The podcast page structure is quiete simple: Navigation – Content Section(s) – Footer. Same also for the contact formular and all color choices.
+The first maxim was to prevent overthinking!
+
 
 ### Color Design: the STATE OF CHANGE cover is designed in a retro future typo.
 - Nav and Footer color is black.
@@ -367,3 +370,22 @@ Code is written by myself with help from:
 - Mentor
 - Tutors
 - Friends
+
+## Summary:
+
+That was my first ever HTML project.
+I enjoyed the work.
+Mostly I struggled with the CSS display logic.
+Also I had to find a workflow between VS Code – GitPod and GitHub.
+That’s why I choosed the folder + file structure. This made it easier for me to have a better overview of my work and I also could change parts easier in the different files, than have for example one big CSS file.
+I also should have to find out, wich information in the commits make sense for other people.
+
+### Fun facts:
+
+- The website includes ≈ 271 words.
+- The readme.md includes ≈ 2525 words. The readme.md is ≈ 832% bigger, than the website.
+- The website includes ≈ 3 images.
+- The readme.md includes ≈ 27 images. The readme.md is ≈ 800% bigger than the website.
+- The HTML and CSS codes includes ≈ 11395 single signs.
+- The readme.md includes ≈ 13835 single signs. The readme.md is ≈ 21% bigger then the website.
+
