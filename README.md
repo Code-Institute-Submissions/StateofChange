@@ -365,6 +365,8 @@ Inspiration for the color palete:
   
 - Cover font: is licensed by: pixelsao.com
 - Music is licensed by: artlist.io
+
+- The Deployment part was added from the CI readme example.
   
 Code is written by myself with help from:
 - Mentor
