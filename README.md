@@ -17,7 +17,7 @@ I do not used Google Fonts or external Icons because of a unclear german GDPR la
 The Page structure:
 -	Navigation Bar: the homepage handling is fully responsive and allow access on all 4 pages. A user is able to switch to all pages. There is no burger menue to keep the navigation in iteration 1 simple as possible.
 	
-![nav bar](/assets/navbar.png "nav bar")
+![nav bar](/documentation/navbar.png "nav bar")
 
 - ### Landing Page: ( includes the cover, the story and the recent episodes):
 The landing page is the gateway to all things podcast-related. 
@@ -25,27 +25,27 @@ It features: A captivating cover that sets the tone for the podcast's theme and 
 An engaging story that gives you insights into what our podcast is all about. 
 A section highlighting our most recent and exciting podcast episodes.
 
-![landing page](/assets/landingpage.png "landing page")
+![landing page](/documentation/landingpage.png "landing page")
 
 - ### Episodes Page:
 Dive deep into our podcast episodes on this dedicated page. Here's what a user can expect: An organized list of all our podcast episodes. Easy-to-use player widgets that allow a user to listen to episodes directly from the page.
 
-![episodes](/assets/episodes.png "episodes")
+![episodes](/documentation/episodes.png "episodes")
 
 - ### „About me“ Page:
 Get to know the host behind the podcast on our "About Me" page: A personal introduction to the host, including background, interests, and passions. Insights into the journey that led to the creation of the podcast.
 
-![aboutme](/assets/aboutme.png "aboutme")
+![aboutme](/documentation/aboutme.png "aboutme")
 
 - ### Contact formular:
 Reach out to the host using the user-friendly contact form: A contact form where a user can enter the name, email, subject, and message. A seamless way to get in touch with the host for any questions, suggestions, or collaborations.
 
-![contact](/assets/contactform.png "contact")
+![contact](/documentation/contactform.png "contact")
 
 - ### Footer:
 The footer invite the user to follow the host on Instagram and Spotify. A color hover effect for Instagram and Spotify is used instead of logos.
 
-![footer](/assets/footer.png "footer")
+![footer](/documentation/footer.png "footer")
 
 ### Features left to implement:
 - a Subscribe Button
@@ -64,21 +64,21 @@ The footer invite the user to follow the host on Instagram and Spotify. A color 
 
 - ### Landing Page:
 
-![wirelanding](/assets/wirelanding.png "wirelanding")
+![wirelanding](/documentation/wirelanding.png "wirelanding")
 
 - ### Episodes Page:
 
-![wireepisodes](/assets/wireepisodes.png "wireepisodes")
+![wireepisodes](/documentation/wireepisodes.png "wireepisodes")
 
 - ### About Page:
 
-![wireabout](/assets/wireabout.png "wireabout")
+![wireabout](/documentation/wireabout.png "wireabout")
 
 - ### Contact Form:
   The contact form has a classic design, to keep the MVP simple and smart as possible, without special design decisions.
   A classy contact form instead of design overthinking.
 
-![wirecontact](/assets/wirecontact.png "wirecontact")
+![wirecontact](/documentation/wirecontact.png "wirecontact")
 
 ### User Story: Podcast Page
 
@@ -141,7 +141,7 @@ The user should be able to navigate to the podcast page and see a well-organized
 
 - The "Recent Episodes" section is visible, and the episode thumbnails and titles are presented as expected. The descriptions are not presented as expacted.
 
-![testepisode](/assets/testepisode.png "testepisode")
+![testepisode](/documentation/testepisode.png "testepisode")
 
 ### Testing User Story 2: Listening to an Episode
 
@@ -216,10 +216,10 @@ The user should be able to click the social media links in the footer. The links
 - The Spotify link opens a new tab, loading the podcast's official Spotify profile page.
 
 - ### Instagram Link:
-![instalink](/assets/instalink.png "instalink")
+![instalink](/documentation/instalink.png "instalink")
 
 - ### Spotify Link:
-![linkspotify](/assets/linkspotify.png "linkspotify")
+![linkspotify](/documentation/linkspotify.png "linkspotify")
 
 
 ### Testing Features
@@ -252,7 +252,7 @@ Access the website on various devices with different screen sizes.
 The website layout and content adjust appropriately to different screen sizes, ensuring a user-friendly experience without any content cutoff or overlapping.
 
 - ### Screenshot of the mobile Android version:
-![mobile_version](/assets/mobile_version.jpg "mobile_version")
+![mobile_version](/documentation/mobile_version.jpg "mobile_version")
 
 ### Feature: Navigation Bar
 
@@ -278,10 +278,10 @@ Hover the mouse cursor over the Instagram and Spotify icons in the footer.
 The Instagram icon on the left side changes color to pink, and the Spotify icon on the right side changes color to green, providing visual feedback to the user when interacting with the icons.
 
 - ### Screenshot hover Instagram
-![hover insta](/assets/hover_instagram_pink.png "hover insta")
+![hover insta](/documentation/hover_instagram_pink.png "hover insta")
 
 - ### Screenshot hover Spotify
-![hover spotify](/assets/hover_spotify_green.png "hover spotify")
+![hover spotify](/documentation/hover_spotify_green.png "hover spotify")
 
 ### Validator Testing:
 - HTML No errors were returned when passing through the official W3C validator 
@@ -291,36 +291,36 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
 
 - ### Landing Page Web Version:
 
-![landingweb](/assets/landingweb.png "landingweb")
+![landingweb](/documentation/landingweb.png "landingweb")
 
 - ### Landing Page Mobile Version:
   
-![landingmobile](/assets/landingmobile.png "landingweb")
+![landingmobile](/documentation/landingmobile.png "landingweb")
 
 - ### Episodes Page Web Version:
 
-![episodesweb](/assets/episodesweb.png "episodesweb")
+![episodesweb](/documentation/episodesweb.png "episodesweb")
 
 - ### Episodes Page Mobile Version:
 
-![episodesmobile](/assets/episodesmobile.png "episodesmobile")
+![episodesmobile](/documentation/episodesmobile.png "episodesmobile")
 
 
 - ### About Page Web Version:
   
-![aboutweb](/assets/aboutweb.png "aboutweb")
+![aboutweb](/documentation/aboutweb.png "aboutweb")
 
 - ### About Page Mobile Version:
   
-![aboutmobile](/assets/aboutmobile.png "aboutmobile")
+![aboutmobile](/documentation/aboutmobile.png "aboutmobile")
 
 - ### Contact Form Web Version:
   
-![contactweb](/assets/contactweb.png "contactweb")
+![contactweb](/documentation/contactweb.png "contactweb")
 
 - ### Contact Form Mobile Version:
   
-![contactmobile](/assets/contactmobile.png "contactmobile")
+![contactmobile](/documentation/contactmobile.png "contactmobile")
 
 ### Fixed Bugs:
 - W3C error messages at the episodes page:
@@ -328,18 +328,18 @@ The Instagram icon on the left side changes color to pink, and the Spotify icon 
 2: Error: The allowtransparency attribute on the iframe element is obsolete.
 - To fix that I used CSS instead.
 
-![error_iframe](/assets/error_iframe.png "error_iframe")
+![error_iframe](/documentation/error_iframe.png "error_iframe")
 
 - W3C Info message at the about page: Trailing slash on void elements.
 That was triggert by the Prettifier extension in VS Code.
 
-![trailing_slash_info](/assets/trailing_slash_info.png "trailing_slash_info")
+![trailing_slash_info](/documentation/trailing_slash_info.png "trailing_slash_info")
 
 
 ### Unfixed Bugs:
 Picture format/ dimensions need to be changed for a better mobile performance.
 
-![lighthouse_performance](/assets/lighthouse_performance.png "lighthouse_performance")
+![lighthouse_performance](/documentation/lighthouse_performance.png "lighthouse_performance")
 
 ### Deployment:
 
